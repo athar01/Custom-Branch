@@ -1,0 +1,7 @@
+#include<conio.h>
+#include<studio.h>
+
+void main()
+clrscr();
+{
+}
